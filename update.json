@@ -1,7 +1,5 @@
 {
-  "versionName": "1.2",
-  "versionCode": 1,
-  "releaseDate": "2025-10-22",
-  "size": "7MB",
+  "version": "1.2",
+  "changelog": "🔹 تحسين الأداء\n🔹 إصلاح الأخطاء السابقة\n🔹 واجهة جديدة",
   "downloadUrl": "https://github.com/aniss90/mc-co-apk/releases/download/test/app-debug.apk"
 }
